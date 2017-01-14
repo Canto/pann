@@ -14,3 +14,7 @@ composer.user.json
 !/assets/jspm_packages/*.*
 assets/jspm_packages/.*
 *.map
+*.swp
+tags
+.htaccess
+*/.htaccess
