@@ -34,7 +34,7 @@
     },
     "require-dev": {
         "fzaninotto/faker": "~1.4",
-        "phpunit/phpunit": "~4.0",
+        "phpunit/phpunit": "~5.0.10",
         "mockery/mockery": "0.9.*",
         "barryvdh/laravel-debugbar": "^2.2"
     },
